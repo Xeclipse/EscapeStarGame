@@ -1,5 +1,5 @@
 package Interface;
 
-public interface movable {
+public interface Mover {
     Object move(Object o);
 }
